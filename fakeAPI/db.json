@@ -1,0 +1,28 @@
+{
+  "penjualan": [
+    {
+      "nama": "Sate",
+      "jumlah": "8",
+      "tanggal": "22/07/2022",
+      "id": 1
+    },
+    {
+      "nama": "Pempek",
+      "jumlah": "4",
+      "tanggal": "22/07/2022",
+      "id": 2
+    },
+    {
+      "nama": "Nasgor",
+      "jumlah": "1",
+      "tanggal": "22/07/2022",
+      "id": 3
+    },
+    {
+      "nama": "Ayam geprek",
+      "jumlah": "4",
+      "tanggal": "26/07/2022",
+      "id": 4
+    }
+  ]
+}
